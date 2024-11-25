@@ -1,5 +1,5 @@
 {
-  "name": "print-hello",
+  "name": "print-hello-cicd",
   "version": "1.0.0",
   "description": "This is a test package to test CI/CD for GitHub Actions and npm.",
   "main": "index.js",
